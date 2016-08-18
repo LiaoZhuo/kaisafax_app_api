@@ -1,3 +1,4 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# 佳兆业金服APP后台接口设计文档
+######本文档为佳兆业金服APP后台接口设计文档，文档包含如下内容：
+* 佳兆业金服APP后台接口模板规范
+* 佳兆业金服APP后台接口
