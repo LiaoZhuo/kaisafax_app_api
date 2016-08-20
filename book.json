@@ -3,6 +3,11 @@
         "theme-api"    
     ],
     "pluginsConfig": {
+        "languages": [{
+            "lang": "java", // sample lang argument
+            "name": "Java", // corresponding name to be displayed
+            "default": true // default language to show
+         },
         "theme-api": {
             "theme": "dark"
         }
