@@ -4,8 +4,8 @@
 * [接口模板规范](接口模板规范.md)
 * [接口编码规范](编码规范.md)
 * [接口防刷策略](接口防刷策略.md)
+* [guid生成策略](guidsheng_cheng_ce_lve.md)
 * [登录详细设计](deng_lu_xiang_xi_she_ji.md)
 * [接口详细说明](接口详细说明.md)
    * [用户接口](用户接口.md)
-* [guid生成策略](guidsheng_cheng_ce_lve.md)
 
