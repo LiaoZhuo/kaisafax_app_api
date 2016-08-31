@@ -13,11 +13,11 @@
 
 |参数名|参数描述|必要|参数校验|备注|
 |-|-|-|-|-|
-|updateInfo|当前版本|Y| |正整数|
+|newestVersion|最新版本信息|Y| |最新版本信息|
 
 updateInfo详细字段：
 ```json
-    updateInfo:{
+    newestVersion:{
 
 
     }
