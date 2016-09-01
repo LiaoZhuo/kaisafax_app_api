@@ -24,7 +24,6 @@ updateInfo详细字段：
         versionDesc:[版本号（1.0.0）],
         downloandUrl:[下载地址],
         mustUpdate:[强制升级]
-        
     }
 ```
 
