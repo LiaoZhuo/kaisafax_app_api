@@ -1,5 +1,12 @@
 {
     "plugins": [
-        "theme-comscore"
-    ]
+        "theme-comscore",
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "gitbookuse",
+            "useIdentifier": false
+        }
+    }
 }
