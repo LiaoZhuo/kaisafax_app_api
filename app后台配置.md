@@ -43,10 +43,16 @@ updateInfo详细字段：
 
 bannerList、noticeList、dynamicInfoList详细字段：
 ```json
-    bannerList:{
-
+    bannerList:[
+        {
+        
     
-    }
+        },
+        {
+        
+
+        }
+    ]
     
     noticeList:{
 
