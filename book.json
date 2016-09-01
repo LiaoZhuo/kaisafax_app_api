@@ -1,11 +1,8 @@
 {
-    "plugins": [
-        "theme-api",
-        "theme-comscore"
-    ],
+
     "pluginsConfig": {
         "theme-api": {
-            "theme": "dark"
+            "theme": "theme-comscore"
         }
     }
 }
