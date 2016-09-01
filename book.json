@@ -2,7 +2,7 @@
 
     "pluginsConfig": {
         "theme-api": {
-            "theme": "theme-comscore"
+            "theme": "dark"
         }
     }
 }
