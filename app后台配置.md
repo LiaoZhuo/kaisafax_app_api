@@ -45,8 +45,10 @@ bannerList、noticeList、dynamicInfoList详细字段：
 ```json
     bannerList:[
         {
-        
-    
+            title:[banner标题],
+            bannerImgUrl:[banner图片url],
+            url:[banner链接],
+            sortNo:[排序位置编号]
         },
         {
         
@@ -54,16 +56,28 @@ bannerList、noticeList、dynamicInfoList详细字段：
         }
     ]
     
-    noticeList:{
+    noticeList:[
+        {
+            title:[公告标题],
+            url:[公告链接直接跳转到h5]
+        },
+        {
+        
 
+        }
+    ]
     
-    }
-    
-    dynamicInfoList:{
-
-
-
-    } 
+    dynamicInfoList:[
+        {
+             title:[动态运营区标题],
+             dynamicImgUrl:[动态运营区图片url],
+             url:[动态运营区链接],
+             sortNo:[排序位置编号]
+        },
+        {
+        
+        }
+    ] 
 ```
 
 
